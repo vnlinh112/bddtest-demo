@@ -15,7 +15,7 @@ pip install -r requirements.txt
 
 
 # BDD Test
-BDD test using [behave](https://behave.readthedocs.io/en/latest/) and [selenium](http://selenium-python.readthedocs.io/).
+BDD test using [behave](https://behave.readthedocs.io/en/latest/) and [selenium](http://selenium-python.readthedocs.io/). Read more about [how to allocate elements](https://selenium-python.readthedocs.io/locating-elements.html)
 
 To setup, download chromedriver [here](https://sites.google.com/a/chromium.org/chromedriver/downloads) and place it in `/usr/bin` or `/usr/local/bin`.
 
