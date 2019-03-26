@@ -1,6 +1,6 @@
 # Cloning and seting up project
 
-** Before you clone project for the first time: **
+*** Before you clone project for the first time: ***
 
 - Create python 2 virtual environment & activate
 ```sh
